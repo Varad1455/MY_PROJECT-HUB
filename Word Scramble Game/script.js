@@ -3,6 +3,10 @@
 let words = [
   // Each object represents a word and its hint
   {
+    word: "farming",
+    hint: "farmer's can do"
+  },
+  {
     word: "addition",
     hint: "The process of adding numbers"
   },
